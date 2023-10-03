@@ -4147,11 +4147,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2678293826451025351, guid: d78096c52428c4783a4576e9a58f617b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 6.4
+      value: 6.46
       objectReference: {fileID: 0}
     - target: {fileID: 2678293826451025351, guid: d78096c52428c4783a4576e9a58f617b, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -4.6
+      value: -4.54
       objectReference: {fileID: 0}
     - target: {fileID: 2678293826451025351, guid: d78096c52428c4783a4576e9a58f617b, type: 3}
       propertyPath: m_LocalPosition.z
@@ -7735,7 +7735,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.26415092, g: 0.26415092, b: 0.26415092, a: 0}
+  m_BackGroundColor: {r: 0.04672481, g: 0.24700323, b: 0.4716981, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -12449,11 +12449,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3724359973081388490, guid: cd6268789d605479e849c2368ac45cd3, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2
+      value: 2.96
       objectReference: {fileID: 0}
     - target: {fileID: 3724359973081388490, guid: cd6268789d605479e849c2368ac45cd3, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -4.64
       objectReference: {fileID: 0}
     - target: {fileID: 3724359973081388490, guid: cd6268789d605479e849c2368ac45cd3, type: 3}
       propertyPath: m_LocalPosition.z
